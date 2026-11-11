@@ -27,7 +27,7 @@ Small libraries that came out of building the animations. Free on npm.
 | --- | --- | --- |
 | [Skill](https://github.com/animate-react-native/skill) | Free. Teaches your agent how React Native animations are built: one driver, springs, gestures, lists. | `npx skills add animate-react-native/skill` |
 | MCP server | Your agent searches the library and reads an animation's real source. | `claude mcp add --transport http animatereactnative https://www.animatereactnative.com/mcp` |
-| [CLI](https://www.npmjs.com/package/@animatereactnative/cli) | Adds one animation to your project, or syncs the whole library to your machine. | `npx @animatereactnative/cli add <slug>` |
+| [CLI](https://github.com/animate-react-native/cli) | Adds one animation to your project, or syncs the whole library to your machine. | `npx @animatereactnative/cli add <slug>` |
 
 ## Try them on your phone
 
